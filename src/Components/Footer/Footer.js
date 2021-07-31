@@ -16,7 +16,7 @@ return (<footer className="contenedor" id="piedepagina">
     </a>
   </div>
   <div className="contenedor-icono">
-    <a href="www.linkedin.com/in/miguel-mazziotti-" target="_blank" className="facebook">
+    <a href="https://www.linkedin.com/in/miguel-mazziotti-" target="_blank" className="facebook">
     <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-brand-linkedin" width="48" height="48" viewBox="0 0 24 24" stroke-width="2" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
   <rect x="4" y="4" width="16" height="16" rx="2" />

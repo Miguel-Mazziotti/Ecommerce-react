@@ -8,6 +8,7 @@ const estilo ={
     flexWrap: 'wrap',
     justifyContent: 'space-around',
     lignItems: 'baseline',
+    alignItems: 'flex-end',
 }
 
    export const ItemListContainer =()=>{

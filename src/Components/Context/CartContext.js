@@ -35,10 +35,6 @@ export const CartContextCom = props => {
         setItemsCart(itemsCart.filter((item) => item.item.id !== id));
     }
 
-    useEffect(() => {
-        console.log('Carrito Actualizado:', itemsCart)
-    }, [itemsCart])
-
     return <CartContext.Provider value={{itemsCart, addItem, clear, removeItem, subTotal, itemsQuantity}}>
         {props.children}
     </CartContext.Provider>

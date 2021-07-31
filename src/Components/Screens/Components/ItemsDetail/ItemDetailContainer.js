@@ -22,7 +22,7 @@ const {Id} = useParams()
         })
     }, [])
     return<>
-        {details.map((detalle)=><ItemDetail details ={detalle}/>)
+        {details.map((detalle,i)=><ItemDetail details ={detalle} key={i}/>)
         }   
     </>
 }

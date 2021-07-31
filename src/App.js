@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter, Switch,Route } from 'react-router-dom';
-import './App.css';
 import NavBar from "./Components/NavBar/NavBar"
 import {ItemListContainer} from './Components/Screens/Components/Card/ItemsListContainer'
 import { ItemDetailContainer } from './Components/Screens/Components/ItemsDetail/ItemDetailContainer'

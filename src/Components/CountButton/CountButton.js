@@ -8,7 +8,8 @@ import {Link} from 'react-router-dom'
             color: 'black',
             border:"2px solid #008CBA",
             textDecoration:'none',
-            borderRadius:'16px'         
+            borderRadius:'16px',
+            fontSize: '1rem '    
     }
     const [count, setCount] = useState(0);
 
