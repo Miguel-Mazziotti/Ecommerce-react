@@ -1,0 +1,7 @@
+nav a{
+    border-radius: 1rem;
+}
+a.active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
+}
