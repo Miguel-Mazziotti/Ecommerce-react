@@ -5,6 +5,9 @@ footer .redes-sociales {
     padding: 20px;
     flex-wrap: wrap;
   }
+  .contenedor{
+    box-shadow: 0px -20px 20px 20px;
+  }
   footer .redes-sociales a {
     display: block;
     width: 4.5rem;

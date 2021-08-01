@@ -14,7 +14,8 @@ const classes = useStyles()
     color:'black',
     borderRadius:'8px',
     border:'2px solid #008CBA',
-    fontSize:'20px'
+    textTransform: 'uppercase'
+    
   }
 
     return<div className={classes.content} >
