@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# Ecommerce React js Proyecto Final
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es mi primer proyecto usando react ademas de otras tecnologias como 
+-material ul para el estilo y un poco de css
+-firebase para los productos y las ordenes de compra generada por los clientes
 
-## Available Scripts
+## De que se trata
+este proyecto es un ecommerce como menciono al principio donde vas a encontrar
+1-una lista de productos que se filtra por categoria
+2-Sistema de compra donde vas a tener que llenar tus datos para hacer una compra
+3-control de stock 
+4-Funciones en el carrito como agregar o eliminar productos 
+5-Generacion de ordenes de compra donde se generan automaticamente en firebase
+
+
+### Cualquier consulta, duda o comentario que tengan me pueden hablar a mi linkedin 
+http://www.linkedin.com/in/miguel-mazziotti-
 
 In the project directory, you can run:
 
